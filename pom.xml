@@ -275,7 +275,7 @@
 
             <exclude>.idea/**</exclude>
             <exclude>**/*.iml</exclude>
-
+            <exclude>.travis.yml</exclude>
             <exclude>.git/**</exclude>
             <exclude>.gitignore</exclude>
             <exclude>.gitreview</exclude>
