@@ -18,6 +18,8 @@
 
 # Building StreamSets Data Collector
 
+Dummy change
+
 To build the Data Collector you will need the following software :
 
 - Git 1.9+
